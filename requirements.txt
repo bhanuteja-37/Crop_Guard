@@ -1,0 +1,11 @@
+Streamlit >=1.40,<2
+Pandas >=2.2,<3
+NumPy >=1.26,<3
+Scikit-learn >=1.5,<2
+Requests >=2.32,<3
+python-dotenv >=1.0,<2
+OpenCV >=4.10,<5
+Pillow >=10,<13
+Matplotlib >=3.9,<4
+Ultralytics >=8.3,<9
+PySerial >=3.5,<4
