@@ -1,0 +1,21 @@
+{
+    "rice": {
+        "name": "Rice",
+        "stages": [
+            "early",
+            "vegetative",
+            "maturity"
+        ],
+        "risk_multiplier": 1.0
+    },
+
+    "maize": {
+        "name": "Maize",
+        "stages": [
+            "early",
+            "vegetative",
+            "maturity"
+        ],
+        "risk_multiplier": 1.0
+    }
+}
